@@ -10,77 +10,106 @@
    {:nih.dri.nutr/name "Calcium"
     :nih.dri.nutr/units "mg"
     :nih.dri.nutr/rda? false
-    :nih.dri.nutr/dval 200.0}
+    :nih.dri.nutr/dval 200.0
+    :nih.dri.nutr/usda-nutr-id "301"
+    }
    
    {:nih.dri.nutr/name "Chromium"
     :nih.dri.nutr/units "μg"
     :nih.dri.nutr/rda? false
-    :nih.dri.nutr/dval 0.2}
+    :nih.dri.nutr/dval 0.2
+    }
    
    {:nih.dri.nutr/name "Copper"
     :nih.dri.nutr/units "μg"
     :nih.dri.nutr/rda? false
-    :nih.dri.nutr/dval 200.0}
+    :nih.dri.nutr/dval 200.0
+    :nih.dri.nutr/usda-nutr-id "312"
+    }
    
    {:nih.dri.nutr/name "Fluoride"
     :nih.dri.nutr/units "mg"
     :nih.dri.nutr/rda? false
-    :nih.dri.nutr/dval 0.01}
+    :nih.dri.nutr/dval 0.01
+    :nih.dri.nutr/usda-nutr-id "313"
+    }
    
    {:nih.dri.nutr/name "Iodine"
     :nih.dri.nutr/units "μg"
     :nih.dri.nutr/rda? false
-    :nih.dri.nutr/dval 110.0}
+    :nih.dri.nutr/dval 110.0
+    }
    
    {:nih.dri.nutr/name "Iron"
     :nih.dri.nutr/units "mg"
     :nih.dri.nutr/rda? false
-    :nih.dri.nutr/dval 0.27}
+    :nih.dri.nutr/dval 0.27
+    :nih.dri.nutr/usda-nutr-id "303"
+    }
    
    {:nih.dri.nutr/name "Magnesium"
     :nih.dri.nutr/units "mg"
     :nih.dri.nutr/rda? false
-    :nih.dri.nutr/dval 30.0}
+    :nih.dri.nutr/dval 30.0
+    :nih.dri.nutr/usda-nutr-id "304"
+    }
    
    {:nih.dri.nutr/name "Manganese"
     :nih.dri.nutr/units "mg"
     :nih.dri.nutr/rda? false
-    :nih.dri.nutr/dval 0.003}
+    :nih.dri.nutr/dval 0.003
+    :nih.dri.nutr/usda-nutr-id "315"
+    }
    
    {:nih.dri.nutr/name "Molybdenum"
     :nih.dri.nutr/units "μg"
     :nih.dri.nutr/rda? false
-    :nih.dri.nutr/dval 2.0}
+    :nih.dri.nutr/dval 2.0
+    }
    
    {:nih.dri.nutr/name "Phosphorus"
     :nih.dri.nutr/units "mg"
     :nih.dri.nutr/rda? false
-    :nih.dri.nutr/dval 100.0}
+    :nih.dri.nutr/dval 100.0
+    :nih.dri.nutr/usda-nutr-id "305"
+    }
    
    {:nih.dri.nutr/name "Selenium"
     :nih.dri.nutr/units "μg"
     :nih.dri.nutr/rda? false
-    :nih.dri.nutr/dval 15.0}
+    :nih.dri.nutr/dval 15.0
+    :nih.dri.nutr/usda-nutr-id "317"
+    
+    }
    
    {:nih.dri.nutr/name "Zinc"
     :nih.dri.nutr/units "mg"
     :nih.dri.nutr/rda? false
-    :nih.dri.nutr/dval 2.0}
+    :nih.dri.nutr/dval 2.0
+    :nih.dri.nutr/usda-nutr-id "309"
+    }
    
    {:nih.dri.nutr/name "Potassium"
     :nih.dri.nutr/units "g"
     :nih.dri.nutr/rda? false
-    :nih.dri.nutr/dval 0.4}
+    :nih.dri.nutr/dval 0.4
+    :nih.dri.nutr/usda-nutr-id "306"
+    }
    
    {:nih.dri.nutr/name "Sodium"
     :nih.dri.nutr/units "g"
     :nih.dri.nutr/rda? false
-    :nih.dri.nutr/dval 0.12}
+    :nih.dri.nutr/dval 0.12
+    :nih.dri.nutr/usda-nutr-id "307"
+    
+    }
    
    {:nih.dri.nutr/name "Chloride"
     :nih.dri.nutr/units "g"
     :nih.dri.nutr/rda? false
-    :nih.dri.nutr/dval 0.18}
+    :nih.dri.nutr/dval 0.18
+    
+    }
    
    ]}
  
@@ -93,7 +122,8 @@
   [{:nih.dri.nutr/name "Calcium"
     :nih.dri.nutr/units "mg"
     :nih.dri.nutr/rda? true
-    :nih.dri.nutr/dval 1000.0}
+    :nih.dri.nutr/dval 1000.0
+    :nih.dri.nutr/usda-nutr-id "301"}
 
    {:nih.dri.nutr/name "Chromium"
     :nih.dri.nutr/units "μg"
@@ -103,12 +133,14 @@
    {:nih.dri.nutr/name "Copper"
     :nih.dri.nutr/units "μg"
     :nih.dri.nutr/rda? true
-    :nih.dri.nutr/dval 900.0}
+    :nih.dri.nutr/dval 900.0
+    :nih.dri.nutr/usda-nutr-id "312"}
 
    {:nih.dri.nutr/name "Fluoride"
     :nih.dri.nutr/units "mg"
     :nih.dri.nutr/rda? false
-    :nih.dri.nutr/dval 4.0}
+    :nih.dri.nutr/dval 4.0
+    :nih.dri.nutr/usda-nutr-id "313"}
 
    {:nih.dri.nutr/name "Iodine"
     :nih.dri.nutr/units "μg"
@@ -118,17 +150,20 @@
    {:nih.dri.nutr/name "Iron"
     :nih.dri.nutr/units "mg"
     :nih.dri.nutr/rda? true
-    :nih.dri.nutr/dval 8.0}
+    :nih.dri.nutr/dval 8.0
+    :nih.dri.nutr/usda-nutr-id "303"}
 
    {:nih.dri.nutr/name "Magnesium"
     :nih.dri.nutr/units "mg"
     :nih.dri.nutr/rda? true
-    :nih.dri.nutr/dval 420.0}
+    :nih.dri.nutr/dval 420.0
+    :nih.dri.nutr/usda-nutr-id "304"}
 
    {:nih.dri.nutr/name "Manganese"
     :nih.dri.nutr/units "mg"
     :nih.dri.nutr/rda? false
-    :nih.dri.nutr/dval 2.3}
+    :nih.dri.nutr/dval 2.3
+    :nih.dri.nutr/usda-nutr-id "315"}
 
    {:nih.dri.nutr/name "Molybdenum"
     :nih.dri.nutr/units "μg"
@@ -138,27 +173,32 @@
    {:nih.dri.nutr/name "Phosphorus"
     :nih.dri.nutr/units "mg"
     :nih.dri.nutr/rda? true
-    :nih.dri.nutr/dval 700.0}
+    :nih.dri.nutr/dval 700.0
+    :nih.dri.nutr/usda-nutr-id "305"}
 
    {:nih.dri.nutr/name "Selenium"
     :nih.dri.nutr/units "μg"
     :nih.dri.nutr/rda? true
-    :nih.dri.nutr/dval 55.0}
+    :nih.dri.nutr/dval 55.0
+    :nih.dri.nutr/usda-nutr-id "317"}
 
    {:nih.dri.nutr/name "Zinc"
     :nih.dri.nutr/units "mg"
     :nih.dri.nutr/rda? true
-    :nih.dri.nutr/dval 11.0}
+    :nih.dri.nutr/dval 11.0
+    :nih.dri.nutr/usda-nutr-id "309"}
 
    {:nih.dri.nutr/name "Potassium"
     :nih.dri.nutr/units "g"
     :nih.dri.nutr/rda? false
-    :nih.dri.nutr/dval 4.7}
+    :nih.dri.nutr/dval 4.7
+    :nih.dri.nutr/usda-nutr-id "306"}
 
    {:nih.dri.nutr/name "Sodium"
     :nih.dri.nutr/units "g"
     :nih.dri.nutr/rda? false
-    :nih.dri.nutr/dval 1.5}
+    :nih.dri.nutr/dval 1.5
+    :nih.dri.nutr/usda-nutr-id "307"}
 
    {:nih.dri.nutr/name "Chloride"
     :nih.dri.nutr/units "g"
