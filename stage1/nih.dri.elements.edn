@@ -210,31 +210,31 @@
    {:nih.dri.nutr/name "Vitamin A"
     :nih.dri.nutr/units "μg"
     :nih.dri.nutr/rda? true
-    :nih.dri.nutr/dval 700
+    :nih.dri.nutr/dval 700.0
     :nih.dri.nutr/usda-nutr-id "320"}
    
    {:nih.dri.nutr/name "Vitamin C"
     :nih.dri.nutr/units "mg"
     :nih.dri.nutr/rda? true
-    :nih.dri.nutr/dval 75
+    :nih.dri.nutr/dval 75.0
     :nih.dri.nutr/usda-nutr-id "401"}
    
    {:nih.dri.nutr/name "Vitamin D"
     :nih.dri.nutr/units "μg"
     :nih.dri.nutr/rda? true
-    :nih.dri.nutr/dval 15
+    :nih.dri.nutr/dval 15.0
     :nih.dri.nutr/usda-nutr-id "328"}
    
    {:nih.dri.nutr/name "Vitamin E"
     :nih.dri.nutr/units "mg"
     :nih.dri.nutr/rda? true
-    :nih.dri.nutr/dval 15
+    :nih.dri.nutr/dval 15.0
     :nih.dri.nutr/usda-nutr-id "573"}
    
    {:nih.dri.nutr/name "Vitamin K"
     :nih.dri.nutr/units "μg"
     :nih.dri.nutr/rda? false
-    :nih.dri.nutr/dval 90
+    :nih.dri.nutr/dval 90.0
     :nih.dri.nutr/usda-nutr-id "430"}
    
    {:nih.dri.nutr/name "Thiamin"
@@ -252,7 +252,7 @@
    {:nih.dri.nutr/name "Niacin"
     :nih.dri.nutr/units "mg"
     :nih.dri.nutr/rda? true
-    :nih.dri.nutr/dval 14
+    :nih.dri.nutr/dval 14.0
     :nih.dri.nutr/usda-nutr-id "406"}
    
    {:nih.dri.nutr/name "Vitamin B6"
@@ -276,19 +276,19 @@
    {:nih.dri.nutr/name "Pantothenic Acid"
     :nih.dri.nutr/units "mg"
     :nih.dri.nutr/rda? false
-    :nih.dri.nutr/dval 5
+    :nih.dri.nutr/dval 5.0
     :nih.dri.nutr/usda-nutr-id "410"}
    
   ;  {:nih.dri.nutr/name "Biotin"
   ;   :nih.dri.nutr/units ""
   ;   :nih.dri.nutr/rda? false
-  ;   :nih.dri.nutr/dval 30
+  ;   :nih.dri.nutr/dval 30.0
   ;   :nih.dri.nutr/usda-nutr-id ""}
    
    {:nih.dri.nutr/name "Choline"
     :nih.dri.nutr/units "mg"
     :nih.dri.nutr/rda? false
-    :nih.dri.nutr/dval 425
+    :nih.dri.nutr/dval 425.0
     :nih.dri.nutr/usda-nutr-id "421"}
    ]
   :nih.dri.group/macronutrients
