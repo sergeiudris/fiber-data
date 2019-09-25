@@ -264,7 +264,7 @@
    {:nih.dri.nutr/name "Folate, food"
     :nih.dri.nutr/units "μg"
     :nih.dri.nutr/rda? true
-    :nih.dri.nutr/dval 400
+    :nih.dri.nutr/dval 400.0
     :nih.dri.nutr/usda-nutr-id "432"}
    
    {:nih.dri.nutr/name "Vitamin B12"
