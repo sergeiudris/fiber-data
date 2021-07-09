@@ -1,8 +1,6 @@
 # playground.fiber.data
 data for https://github.com/sergeiudris/experiment.fiber
 
-[archived]
-
 ## resources
 
 - https://github.com/awesomedata/awesome-public-datasets#agriculture
