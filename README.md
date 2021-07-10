@@ -1,5 +1,5 @@
 # playground.fiber.data
-data for https://github.com/sergeiudris/experiment.fiber
+data for https://github.com/sergeiudris/playground.fiber
 
 ## resources
 
