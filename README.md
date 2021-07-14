@@ -1,5 +1,5 @@
-# fiber.data
-data for the [fiber app](https://github.com/seeris/fiber)
+# playground.fiber.data
+data for https://github.com/seeris/playground.fiber
 
 ## resources
 
